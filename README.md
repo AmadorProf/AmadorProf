@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Amador CArmona Méndez
 
-<!--
-**AmadorProf/AmadorProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🏫 Docente de Informática | Apasionado por la Educación Tecnológica
 
-Here are some ideas to get you started:
+¡Bienvenido a mi espacio educativo en GitHub! Soy profesor de informática y aquí compartiré materiales, apuntes y recursos para las asignaturas que imparto. Mi objetivo es crear contenido accesible y práctico para apoyar el aprendizaje de mis estudiantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Sobre Mi Labor Docente
+Como educador, me enfoco en fomentar el pensamiento computacional, las buenas prácticas de desarrollo y la aplicación real de los conocimientos técnicos. Creo en la enseñanza colaborativa y en aprender haciendo, por lo que mis materiales suelen incluir ejemplos prácticos y proyectos progresivos.
+
+---
+
+### 📚 Asignaturas que Imparto
+- Fundamentos de Programación
+- Bases de Datos y SQL
+- Desarrollo Web (HTML/CSS/JavaScript)
+
+
+---
+
+### 🛠 Recursos que Comparto
+En este perfil encontrarás:
+- 📖 Apuntes estructurados por temas
+- 🏗 Plantillas de proyectos
+- ✅ Ejercicios y soluciones
+- 📝 Exámenes
+
+---
+
+### 📫 Contacto Profesional
+- 📧 Correo educativo: [amadorcm.prof@gmail.com]
+- 🔗 Perfil principal: [[GitHub personal/profesional](https://github.com/Amadorcm/Amadorcm)]
+- 🏫 Educación: Universidad de Granada
+
+---
+
+### 🌱 Filosofía Educativa
+"La informática no es solo sobre máquinas, sino sobre resolver problemas y crear oportunidades. Como docente, mi misión es preparar a los estudiantes para los desafíos tecnológicos del futuro, fomentando tanto la competencia técnica como el pensamiento crítico."
+
+---
+
+¡Espero que estos recursos sean útiles! ✨ Si eres estudiante o compañero, no dudes en abrir issues con preguntas o sugerencias para mejorar los materiales.
+
+
