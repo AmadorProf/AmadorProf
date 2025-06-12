@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Amador CArmona Méndez
+# 👋 ¡Hola! Soy Amador Carmona Méndez
 
 ### 👨‍🏫 Docente de Informática | Apasionado por la Educación Tecnológica
 
@@ -7,15 +7,7 @@
 ---
 
 ### 🎯 Sobre Mi Labor Docente
-Como educador, me enfoco en fomentar el pensamiento computacional, las buenas prácticas de desarrollo y la aplicación real de los conocimientos técnicos. Creo en la enseñanza colaborativa y en aprender haciendo, por lo que mis materiales suelen incluir ejemplos prácticos y proyectos progresivos.
-
----
-
-### 📚 Asignaturas que Imparto
-- Fundamentos de Programación
-- Bases de Datos y SQL
-- Desarrollo Web (HTML/CSS/JavaScript)
-
+Como docente, me enfoco en fomentar el pensamiento computacional, las buenas prácticas de desarrollo y la aplicación real de los conocimientos técnicos. Creo en la enseñanza colaborativa y en aprender haciendo, por lo que mis materiales suelen incluir ejemplos prácticos y proyectos progresivos.
 
 ---
 
@@ -32,7 +24,7 @@ En este perfil encontrarás:
 - 📧 Correo educativo: [amadorcm.prof@gmail.com]
 - 🔗 Perfil principal: [[GitHub personal/profesional](https://github.com/Amadorcm/Amadorcm)]
 - 🏫 Educación: Universidad de Granada
-
+  
 ---
 
 ### 🌱 Filosofía Educativa
