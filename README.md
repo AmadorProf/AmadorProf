@@ -23,7 +23,7 @@ En este perfil encontrarás:
 ###  Contacto Profesional
 - 📧 Correo educativo: [amadorcm.prof@gmail.com]
 - 🔗 Perfil principal: [[GitHub personal/profesional](https://github.com/Amadorcm/Amadorcm)]
-- 🏫 Educación: Universidad de Granada
+- 🏫 Educación: Escuela Tecnica Superior Ingeniería Informática y Telecomunicaciones, Universidad de Granada
   
 ---
 
