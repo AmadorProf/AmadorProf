@@ -19,7 +19,7 @@ Profesor de informatica en ciclos formativos. Uso este perfil para organizar y c
 
 | Repositorio | Descripcion | Tecnologia |
 |---|---|---|
-| [ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | CFS Inteligencia Artificial y Datos — Nivel 3 | HTML |
+| [ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | Apuntes de IA y Datos — 55 UDs en 8 módulos | HTML |
 | [SQL](https://github.com/AmadorProf/SQL) | Apuntes y ejercicios de bases de datos | SQL |
 | [Python-Pandas](https://github.com/AmadorProf/Python-Pandas) | Python y Pandas para analisis de datos | Python |
 | [ApuntesGithub](https://github.com/AmadorProf/ApuntesGithub) | Control de versiones con Git y GitHub | Git |
