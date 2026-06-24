@@ -1,12 +1,12 @@
-# ¡Hola! Soy Amador Carmona Méndez 👋
+# Hola, soy Amador Carmona Mendez
 
-### Docente de Informática | Apasionado por la Educación Tecnológica
+### Docente de Informatica | Apasionado por la Educacion Tecnologica
 
-Bienvenido a mi espacio educativo en GitHub. Soy profesor de informática y comparto materiales, apuntes y recursos para las asignaturas que imparto. Mi objetivo es crear contenido accesible y práctico para apoyar el aprendizaje de mis estudiantes.
+Bienvenido a mi espacio educativo en GitHub. Soy profesor de informatica y comparto materiales, apuntes y recursos para las asignaturas que imparto. Mi objetivo es crear contenido accesible y practico para apoyar el aprendizaje de mis estudiantes.
 
 ---
 
-## 🛠️ Tecnologías que enseño
+## Tecnologias que enseno
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,20 +17,20 @@ Bienvenido a mi espacio educativo en GitHub. Soy profesor de informática y comp
 
 ---
 
-## 📚 Repositorios para el aula
+## Repositorios para el aula
 
-| Repositorio | Descripción | Tecnología |
+| Repositorio | Descripcion | Tecnologia |
 |---|---|---|
-| [📘 ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | CFS Inteligencia Artificial y Datos — Nivel 3 | HTML |
-| [🗃️ SQL](https://github.com/AmadorProf/SQL) | Apuntes y ejercicios de bases de datos | SQL |
-| [🐍 Python-Pandas](https://github.com/AmadorProf/Python-Pandas) | Python y Pandas para análisis de datos | Python |
-| [🌐 ApuntesGithub](https://github.com/AmadorProf/ApuntesGithub) | Control de versiones con Git y GitHub | Git |
-| [🖥️ DWES-2526](https://github.com/AmadorProf/DWES-2526) | Desarrollo Web en Entorno Servidor 25/26 | Web |
-| [📓 Cuaderno-del-Profesor](https://github.com/AmadorProf/Cuaderno-del-Profesor) | Gestión digital del aula | JavaScript |
+| [ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | CFS Inteligencia Artificial y Datos — Nivel 3 | HTML |
+| [SQL](https://github.com/AmadorProf/SQL) | Apuntes y ejercicios de bases de datos | SQL |
+| [Python-Pandas](https://github.com/AmadorProf/Python-Pandas) | Python y Pandas para analisis de datos | Python |
+| [ApuntesGithub](https://github.com/AmadorProf/ApuntesGithub) | Control de versiones con Git y GitHub | Git |
+| [DWES-2526](https://github.com/AmadorProf/DWES-2526) | Desarrollo Web en Entorno Servidor 25/26 | Web |
+| [Cuaderno-del-Profesor](https://github.com/AmadorProf/Cuaderno-del-Profesor) | Gestion digital del aula | JavaScript |
 
 ---
 
-## 📊 Estadísticas
+## Estadisticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmadorProf&show_icons=true&theme=blue-green&hide_border=true&locale=es" height="150"/>
@@ -39,12 +39,12 @@ Bienvenido a mi espacio educativo en GitHub. Soy profesor de informática y comp
 
 ---
 
-## 📬 Contacto profesional
+## Contacto profesional
 
-- 📧 [amadorcm.prof@gmail.com](mailto:amadorcm.prof@gmail.com)
-- 🔗 [Perfil personal](https://github.com/Amadorcm)
-- 🏫 Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones — Universidad de Granada
+- Correo: [amadorcm.prof@gmail.com](mailto:amadorcm.prof@gmail.com)
+- Perfil personal: [github.com/Amadorcm](https://github.com/Amadorcm)
+- Escuela Tecnica Superior de Ingenieria Informatica y Telecomunicaciones — Universidad de Granada
 
 ---
 
-> 💬 Si eres estudiante o compañero, no dudes en abrir un *issue* con preguntas o sugerencias para mejorar los materiales.
+Si eres estudiante o companero, no dudes en abrir un issue con preguntas o sugerencias para mejorar los materiales.
