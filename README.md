@@ -1,12 +1,10 @@
-# Hola, soy Amador Carmona Mendez
+# Amador Carmona Mendez — Docente de Informatica
 
-### Docente de Informatica | Apasionado por la Educacion Tecnologica
-
-Bienvenido a mi espacio educativo en GitHub. Soy profesor de informatica y comparto materiales, apuntes y recursos para las asignaturas que imparto. Mi objetivo es crear contenido accesible y practico para apoyar el aprendizaje de mis estudiantes.
+Profesor de informatica en ciclos formativos. Uso este perfil para organizar y compartir los materiales de clase: apuntes, ejercicios, plantillas y examenes. Todo lo que subo esta pensado para ser util directamente en el aula.
 
 ---
 
-## Tecnologias que enseno
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,7 +15,7 @@ Bienvenido a mi espacio educativo en GitHub. Soy profesor de informatica y compa
 
 ---
 
-## Repositorios para el aula
+## Repositorios
 
 | Repositorio | Descripcion | Tecnologia |
 |---|---|---|
@@ -39,12 +37,5 @@ Bienvenido a mi espacio educativo en GitHub. Soy profesor de informatica y compa
 
 ---
 
-## Contacto profesional
-
-- Correo: [amadorcm.prof@gmail.com](mailto:amadorcm.prof@gmail.com)
-- Perfil personal: [github.com/Amadorcm](https://github.com/Amadorcm)
-- Escuela Tecnica Superior de Ingenieria Informatica y Telecomunicaciones — Universidad de Granada
-
----
-
-Si eres estudiante o companero, no dudes en abrir un issue con preguntas o sugerencias para mejorar los materiales.
+Cualquier duda o sugerencia, abre un issue en el repo correspondiente.
+Contacto: [amadorcm.prof@gmail.com](mailto:amadorcm.prof@gmail.com) · [github.com/Amadorcm](https://github.com/Amadorcm)
