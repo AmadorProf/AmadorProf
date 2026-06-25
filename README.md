@@ -17,14 +17,14 @@ Profesor de informatica en ciclos formativos. Uso este perfil para organizar y c
 
 ## Repositorios
 
-| Repositorio | Descripcion | Tecnologia |
-|---|---|---|
-| [ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | Apuntes de IA y Datos — 55 UDs en 8 módulos | HTML |
-| [SQL](https://github.com/AmadorProf/SQL) | Apuntes y ejercicios de bases de datos | SQL |
-| [Python-Pandas](https://github.com/AmadorProf/Python-Pandas) | Python y Pandas para analisis de datos | Python |
-| [ApuntesGithub](https://github.com/AmadorProf/ApuntesGithub) | Control de versiones con Git y GitHub | Git |
-| [DWES-2526](https://github.com/AmadorProf/DWES-2526) | Desarrollo Web en Entorno Servidor 25/26 | Web |
-| [Cuaderno-del-Profesor](https://github.com/AmadorProf/Cuaderno-del-Profesor) | Gestion digital del aula | JavaScript |
+| Repositorio | Descripcion | Tecnologia | Web |
+|---|---|---|---|
+| [ApuntesIAD](https://github.com/AmadorProf/ApuntesIAD) | Apuntes de IA y Datos — 55 UDs en 8 módulos | HTML | [ver](https://amadorprof.github.io/ApuntesIAD/) |
+| [SQL](https://github.com/AmadorProf/SQL) | Apuntes y ejercicios de bases de datos | SQL | [ver](https://amadorprof.github.io/SQL/) |
+| [Python-Pandas](https://github.com/AmadorProf/Python-Pandas) | Python y Pandas para analisis de datos | Python | [ver](https://amadorprof.github.io/Python-Pandas/) |
+| [ApuntesGithub](https://github.com/AmadorProf/ApuntesGithub) | Control de versiones con Git y GitHub | Git | [ver](https://amadorprof.github.io/ApuntesGithub/) |
+| [DWES-2526](https://github.com/AmadorProf/DWES-2526) | Desarrollo Web en Entorno Servidor 25/26 | Web | — |
+| [Cuaderno-del-Profesor](https://github.com/AmadorProf/Cuaderno-del-Profesor) | Gestion digital del aula | JavaScript | — |
 
 ---
 
