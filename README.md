@@ -21,7 +21,7 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
 
 ---
 
-## 📚 Repositorios destacados
+## Repositorios destacados
 
 <table>
   <tr>
@@ -30,14 +30,14 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=ApuntesIAD&theme=blue-green&hide_border=true" alt="ApuntesIAD"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/ApuntesIAD/">Apuntes de IA y Datos — 55 UDs en 8 módulos</a>
+      <a href="https://amadorprof.github.io/ApuntesIAD/">Apuntes de IA y Datos — 55 UDs en 8 módulos</a>
     </td>
     <td align="center">
       <a href="https://github.com/AmadorProf/DWES-2526">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=DWES-2526&theme=blue-green&hide_border=true" alt="DWES-2526"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/DWES-2526/">Desarrollo Web en Entorno Servidor</a>
+      <a href="https://amadorprof.github.io/DWES-2526/">Desarrollo Web en Entorno Servidor</a>
     </td>
   </tr>
   <tr>
@@ -46,14 +46,14 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=SQL&theme=blue-green&hide_border=true" alt="SQL"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/SQL/">Apuntes y ejercicios de bases de datos</a>
+      <a href="https://amadorprof.github.io/SQL/">Apuntes y ejercicios de bases de datos</a>
     </td>
     <td align="center">
       <a href="https://github.com/AmadorProf/Python-Pandas">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=Python-Pandas&theme=blue-green&hide_border=true" alt="Python-Pandas"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/Python-Pandas/">Python y Pandas para análisis de datos</a>
+      <a href="https://amadorprof.github.io/Python-Pandas/">Python y Pandas para análisis de datos</a>
     </td>
   </tr>
   <tr>
@@ -62,19 +62,19 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=ApuntesGithub&theme=blue-green&hide_border=true" alt="ApuntesGithub"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/ApuntesGithub/">Control de versiones con Git y GitHub</a>
+      <a href="https://amadorprof.github.io/ApuntesGithub/">Control de versiones con Git y GitHub</a>
     </td>
     <td align="center">
       <a href="https://github.com/AmadorProf/Cuaderno-del-Profesor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=Cuaderno-del-Profesor&theme=blue-green&hide_border=true" alt="Cuaderno-del-Profesor"/>
       </a>
       <br/>
-      🌐 <a href="https://amadorprof.github.io/Cuaderno-del-Profesor/">Cuaderno del Profesor — gestión digital del aula (demo)</a>
+      <a href="https://amadorprof.github.io/Cuaderno-del-Profesor/">Cuaderno del Profesor — gestión digital del aula (demo)</a>
     </td>
   </tr>
 </table>
 
-### 🖥️ Webs para el aula
+### Webs para el aula
 
 | Materia | Web publicada |
 |---|---|
@@ -87,7 +87,7 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmadorProf&show_icons=true&theme=blue-green&hide_border=true&locale=es" height="150" alt="Estadísticas de GitHub"/>
@@ -96,7 +96,7 @@ Profesor de Informática en ciclos formativos. Uso este perfil para organizar y 
 
 ---
 
-## ✉️ Contacto
+## Contacto
 
 Cualquier duda o sugerencia, abre un *issue* en el repositorio correspondiente.
 
