@@ -6,62 +6,6 @@
 
 Ingeniero Informático (Universidad de Granada) y profesor de Informática en ciclos formativos. Uso este perfil para organizar y compartir los materiales de clase: apuntes, ejercicios, plantillas y exámenes. Todo lo que subo está pensado para ser útil directamente en el aula, publicado como web y con licencia abierta (CC BY 4.0).
 
-
----
-
-## Repositorios destacados
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/ApuntesIAD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=ApuntesIAD&theme=blue-green&hide_border=true" alt="ApuntesIAD"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/ApuntesIAD/">Apuntes de IA y Datos — 55 UDs en 8 módulos</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/DWES-2526">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=DWES-2526&theme=blue-green&hide_border=true" alt="DWES-2526"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/DWES-2526/">Desarrollo Web en Entorno Servidor</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/SQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=SQL&theme=blue-green&hide_border=true" alt="SQL"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/SQL/">Apuntes y ejercicios de bases de datos</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/Python-Pandas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=Python-Pandas&theme=blue-green&hide_border=true" alt="Python-Pandas"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/Python-Pandas/">Python y Pandas para análisis de datos</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/ApuntesGithub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=ApuntesGithub&theme=blue-green&hide_border=true" alt="ApuntesGithub"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/ApuntesGithub/">Control de versiones con Git y GitHub</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AmadorProf/Cuaderno-del-Profesor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmadorProf&repo=Cuaderno-del-Profesor&theme=blue-green&hide_border=true" alt="Cuaderno-del-Profesor"/>
-      </a>
-      <br/>
-      <a href="https://amadorprof.github.io/Cuaderno-del-Profesor/">Cuaderno del Profesor — gestión digital del aula (demo)</a>
-    </td>
-  </tr>
-</table>
-
 ### Webs para el aula
 
 | Materia | Web publicada |
