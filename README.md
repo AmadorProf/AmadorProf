@@ -30,15 +30,6 @@ Antes de dedicarme a la docencia trabajé en robótica social asistencial en la 
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmadorProf&show_icons=true&theme=blue-green&hide_border=true&locale=es" height="150" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadorProf&layout=compact&theme=blue-green&hide_border=true&locale=es&hide=scss,css" height="150" alt="Lenguajes más usados"/>
-</p>
-
----
-
 ## Contacto
 
 Cualquier duda o sugerencia sobre los materiales, abre un *issue* en el repositorio correspondiente. Puedes usarlos, compartirlos y adaptarlos libremente citando la fuente (CC BY 4.0).
