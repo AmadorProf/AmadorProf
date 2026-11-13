@@ -16,8 +16,28 @@ Ingeniero Informático (Universidad de Granada) y profesor de Informática en ci
 | Python y Pandas | [amadorprof.github.io/Python-Pandas](https://amadorprof.github.io/Python-Pandas/) |
 | Git y GitHub | [amadorprof.github.io/ApuntesGithub](https://amadorprof.github.io/ApuntesGithub/) |
 | Cuaderno del Profesor (demo de la app) | [amadorprof.github.io/Cuaderno-del-Profesor](https://amadorprof.github.io/Cuaderno-del-Profesor/) |
+| Rust | [amadorprof.github.io/Rust](https://amadorprof.github.io/Rust/) |
+| Virtualización y sistemas operativos | [amadorprof.github.io/Virtualizacion](https://amadorprof.github.io/Virtualizacion/) |
 
 Todos los materiales siguen el mismo formato: módulos progresivos, teoría corta con código ejecutable, ejercicios con soluciones plegadas y web generada automáticamente con GitHub Pages y Actions.
+
+---
+
+## Formación continua
+
+Cursos y formación que voy completando para mantenerme al día y ampliar lo que llevo al aula:
+
+| Curso | Contenido |
+|---|---|
+| Ciberseguridad industrial | CiberOT: IACS, protocolos industriales, ISA/IEC 62443, análisis de tráfico e IDS |
+| IA — Datos y Modelos | Extracción y preparación de datos, entrenamiento y evaluación de modelos, despliegue de soluciones LLM |
+| IA — Infraestructura y Despliegue | Implementación y despliegue de sistemas de IA, explotación de servicios de datos, infraestructura para LLMs |
+| Python y Pandas | Python desde cero, NumPy y Pandas para análisis de datos |
+| SQL | Modelo relacional, consultas, JOINs, normalización y funciones de ventana |
+| Rust | Ownership, borrowing, traits, concurrencia y gestión de memoria, con proyecto práctico de CLI |
+| Virtualización y sistemas operativos | Procesos, memoria virtual, concurrencia y sistemas de ficheros (basado en OSTEP) |
+| Simulación molecular | Termodinámica y mecánica estadística aplicadas a simulación molecular |
+| Git y GitHub | Control de versiones, ramas, colaboración y despliegue con GitHub Pages / Actions |
 
 ---
 
