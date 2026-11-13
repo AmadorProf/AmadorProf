@@ -18,8 +18,8 @@ Ingeniero Informático (Universidad de Granada) y profesor de Informática en ci
 | Cuaderno del Profesor (demo de la app) | [amadorprof.github.io/Cuaderno-del-Profesor](https://amadorprof.github.io/Cuaderno-del-Profesor/) |
 | Rust | [amadorprof.github.io/Rust](https://amadorprof.github.io/Rust/) |
 | Virtualización y sistemas operativos | [amadorprof.github.io/Virtualizacion](https://amadorprof.github.io/Virtualizacion/) |
-| Ciberseguridad industrial (OT/ICS) — apuntes originales | [amadorprof.github.io/CiberOT-Apuntes-Originales](https://amadorprof.github.io/CiberOT-Apuntes-Originales/) |
-| Ciberseguridad IT — apuntes originales | [amadorprof.github.io/CyberIT-Apuntes-Originales](https://amadorprof.github.io/CyberIT-Apuntes-Originales/) |
+| Ciberseguridad industrial (OT/ICS) — apuntes | [amadorprof.github.io/CiberOT-Apuntes-Originales](https://amadorprof.github.io/CiberOT-Apuntes-Originales/) |
+| Ciberseguridad IT — apuntes | [amadorprof.github.io/CyberIT-Apuntes-Originales](https://amadorprof.github.io/CyberIT-Apuntes-Originales/) |
 
 Todos los materiales siguen el mismo formato: módulos progresivos, teoría corta con código ejecutable, ejercicios con soluciones plegadas y web generada automáticamente con GitHub Pages y Actions.
 
